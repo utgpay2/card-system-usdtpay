@@ -10,7 +10,7 @@
 驱动 Token188 (填写错误会找不到驱动)
 方式 Token188 数字货币
 支付图片路径填 /plugins/images/xxxx.png 前面一定要加斜杠不然图片加载不了
-app_id, api_secret  请到Token188 官网注册获取.
+app_id, api_secret  请到[TOKEN188](https://www.token188.com/) 官网注册获取.
 ## 安装流程
 1. 注册[TOKEN188商户中心](https://www.token188.com/manager)
 2. 在商户中心添加需要监听的地址
