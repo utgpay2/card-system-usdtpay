@@ -17,7 +17,10 @@
  - [TOKEN188主页介绍,USDT支付平台(https://www.token188.com)
  - [TOKEN188钱包](https://www.token188.com)（即将推出）
  - [商户平台](https://www.token188.com/manager)
-
+### 特点
+ - 使用您自己的USDT地址收款没有中间商
+ - 五分钟完成对接
+ - 没有任何支付手续费
 
 ## 安装流程
 1. 注册[TOKEN188商户中心](https://www.token188.com/manager)
