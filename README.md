@@ -1,4 +1,4 @@
-# card-system-usdtpay 风铃发卡插件 使用USDT直接支付到个人地址，不用经过第三方
+# card-system-usdtpay 风铃发卡USDT支付插件 用户直接支付到个人地址，不用经过第三方，实时到账
 ### 网站配置
  - 通过GitHub下载得到app和public文件 直接覆盖到风铃发卡系统根目录即可，然后按照下面配置修改参数即可使用Token188 USDT支付。
 
