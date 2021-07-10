@@ -3,14 +3,22 @@
  - 通过GitHub下载得到app和public文件 直接覆盖到风铃发卡系统根目录即可，然后按照下面配置修改参数即可使用Token188 USDT支付。
 
 ### 子渠道配置
-选择管理中心
-支付渠道
-添加子渠道
-名称 Token188
-驱动 Token188 (填写错误会找不到驱动)
-方式 Token188 数字货币
-支付图片路径填 /plugins/images/xxxx.png 前面一定要加斜杠不然图片加载不了
-app_id, api_secret  请到[TOKEN188](https://www.token188.com/) 官网注册获取.
+ - 选择管理中心
+ - 支付渠道
+ - 添加子渠道
+ - 名称 Token188
+ - 驱动 Token188 (填写错误会找不到驱动)
+ - 方式 Token188 数字货币
+ - 支付图片路径填 /plugins/images/xxxx.png 前面一定要加斜杠不然图片加载不了
+ - app_id, api_secret  请到[TOKEN188](https://www.token188.com/) 官网注册获取.
+
+### 产品介绍
+
+ - [TOKEN188主页介绍,USDT支付平台(https://www.token188.com)
+ - [TOKEN188钱包](https://www.token188.com)（即将推出）
+ - [商户平台](https://www.token188.com/manager)
+
+
 ## 安装流程
 1. 注册[TOKEN188商户中心](https://www.token188.com/manager)
 2. 在商户中心添加需要监听的地址
