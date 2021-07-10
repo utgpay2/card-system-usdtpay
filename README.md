@@ -14,7 +14,7 @@
 
 ### 产品介绍
 
- - [TOKEN188主页介绍,USDT支付平台](https://www.token188.com)
+ - [TOKEN188主页介绍 USDT支付平台](https://www.token188.com)
  - [TOKEN188钱包](https://www.token188.com)（即将推出）
  - [商户平台](https://www.token188.com/manager)
 ### 特点
