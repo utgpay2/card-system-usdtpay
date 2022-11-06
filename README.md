@@ -10,7 +10,7 @@
  - 驱动 Token188 (填写错误会找不到驱动)
  - 方式 Token188 数字货币
  - 支付图片路径填 /plugins/images/xxxx.png 前面一定要加斜杠不然图片加载不了
- - paset选json```{"app_id":"这里是app_id", "api_secret":"这里是api_secret"```
+ - pase选json```{"app_id":"这里是app_id", "api_secret":"这里是api_secret"```
  - app_id, api_secret  请到[TOKEN188](https://www.token188.com/) 官网注册获取.
 
 ### 产品介绍
