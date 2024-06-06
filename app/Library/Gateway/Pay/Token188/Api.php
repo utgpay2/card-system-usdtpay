@@ -48,7 +48,7 @@ class Api implements ApiInterface
         //echo $params['totalAmount'];
         $mysign = self::GetSign($config['api_secret'], $params);
         // 网关连接
-        $ret_raw = self::_curlPost('https://api.token188.com/utg/pay/address', $params,$mysign,1);
+        $ret_raw = self::_curlPost('https://payapi.188pay.net/utg/pay/address', $params,$mysign,1);
         
 		
         $ret = @json_decode($ret_raw, true);
