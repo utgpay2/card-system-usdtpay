@@ -11,20 +11,20 @@
  - 方式 Token188 数字货币
  - 支付图片路径填 /plugins/images/xxxx.png 前面一定要加斜杠不然图片加载不了
  - pase选json```{"app_id":"这里是app_id", "api_secret":"这里是api_secret"```
- - app_id, api_secret  请到[TOKEN188](https://www.token188.com/) 官网注册获取.
+ - app_id, api_secret  请到[TOKEN188](https://www.188pay.net/) 官网注册获取.
 
 ### 产品介绍
 
- - [TOKEN188 USDT支付平台主页](https://www.token188.com)
- - [TOKEN188钱包](https://www.token188.com)（即将推出）
- - [商户平台](https://www.token188.com/manager)
+ - [TOKEN188 USDT支付平台主页](https://www.188pay.net)
+ - [TOKEN188钱包](https://www.188pay.net)（即将推出）
+ - [商户平台](https://mar.188pay.net/)
 ### 特点
  - 使用您自己的USDT地址收款没有中间商
  - 五分钟完成对接
  - 没有任何支付手续费
 
 ## 安装流程
-1. 注册[TOKEN188商户中心](https://mar.token188.com/)
+1. 注册[TOKEN188商户中心](https://mar.188pay.net/)
 2. 在商户中心添加需要监听的地址
 3. 根据使用的不同面板进行回调设置(回调地址可以不填)
 
